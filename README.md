@@ -23,8 +23,7 @@ This system analyzes rock brittleness characteristics using a multimodal data fu
 
 1. Clone the repository:
 ```bash
-git clone git clone https://github.com/your-repo/rock-brittleness.git
-
+git clone git clone git clone https://github.com/your-repo/rock-brittleness.git
 cd rock-brittleness
 ```
 
